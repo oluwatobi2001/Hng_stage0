@@ -21,7 +21,7 @@ Here is the expected response
 ```
 {
     "email":"tobilyn77@gmail.com","current_datetime":"2025-01-31T06:52:13.634Z",
-"github_url":"<https://github.com/oluwatobi12001/hng_stage1.git>"
+"github_url":"<https://github.com/oluwatobi12001/hng_stage0>"
 }
 ```
 ## Further Info 
