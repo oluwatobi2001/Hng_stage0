@@ -23,7 +23,7 @@ const time = new  Date().toISOString();
      res.status(200).json({
         "email": "tobilyn77@gmail.com",
         "current_datetime" : time,
-        "github_url": "<https://github.com/oluwatobi2001/Hng_stage0>"
+        "github_url": "https://github.com/oluwatobi2001/Hng_stage0"
      })
  })
 
