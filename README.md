@@ -14,9 +14,9 @@ to run the project locally,
 ## API Documentation
 
 Here is the link to the endpoint URL 
-
+<https://hng-stage0-9oat.onrender.com>
 <>
-Here is athe expected response 
+Here is the expected response 
 
 ```
 {
